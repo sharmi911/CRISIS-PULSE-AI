@@ -1,0 +1,6 @@
+groq
+requests
+python-dotenv
+flask
+streamlit
+streamlit-autorefresh
